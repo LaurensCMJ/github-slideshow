@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Ice cream is great in the summer.
 Use the left arrow to go back!
